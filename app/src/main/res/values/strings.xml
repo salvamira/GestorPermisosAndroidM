@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gestor Permisos Android M+</string>
+    <string name="eti_localizacion">ACCESS_FINE_LOCATION</string>
+    <string name="eti_camara">CAMERA</string>
+    <string name="eti_internet">INTERNET</string>
+    <string name="eti_contactos">READ_CONTACTS</string>
+    <string name="eti_almacenamiento">WRITE_EXTERNAL_STORAGE</string>
+    <string name="menu_camara">Cámara</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_localizacion">Localización</string>
+    <string name="toast_error">Disculpa, pero no podemos hacer esto porque no diste el permiso!</string>
+    <string name="toast_camara">Patata, patata, patata ...!</string>
+    <string name="toast_contactos">Añádeme a tus contactos, please ...</string>
+    <string name="toast_localizacion">No importa dónde vayas, to te guío :-P</string>
+</resources>
